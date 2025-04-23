@@ -1,0 +1,17 @@
+# Ambiente virtual
+venv/
+.env/
+
+# Arquivos Python compilados
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Banco de dados SQLite (opcional, se não quiser versionar)
+*.db
+
+# Notebooks checkpoints
+.ipynb_checkpoints/
+
+# Arquivos do Vercel
+.vercel/
